@@ -1,0 +1,9 @@
+name = Open Charity
+description = Open Charity is a Drupal 7 theme. Developed by <a href="http://kelvinbiffi.github.io/">Kelvin Biffi</a>.
+core = 7.x
+engine = phptemplate
+
+regions[header] = Header
+regions[sidebar_first] = Right sidebar
+regions[content] = Content
+regions[footer] = Footer
